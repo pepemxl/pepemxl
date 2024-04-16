@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 - 👋 Hi, I’m @pepemxl Mathematician
 - 👀 I’m interested in numerical analysis now called Machine Learning techniques applied to different kind of problems in special nano structures.
-- 🌱 I’m currently learning Rust/GO/Scala languages and fraud detection techniques.
+- 🌱 I’m currently learning knowledge graph, Large Language Models and large system management.
 - 💞️ I’m looking to collaborate on projects related with Machine Learning techniques applied to health and security.
 
 ### 🛠 &nbsp;Tech Stack
@@ -30,13 +30,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/pepemxl"><img alt="Pepe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pepemxl&custom_title=Pepe's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
